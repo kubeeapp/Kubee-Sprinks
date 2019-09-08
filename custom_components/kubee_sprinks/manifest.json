@@ -1,0 +1,8 @@
+{
+        "domain": "kubee_sprinks",
+        "name": "Sprinks integration for Kubee Grow Assistant",
+        "documentation": "https://github.com/kubeeapp/Kubee-Sprinks",
+        "requirements": [],
+        "dependencies": [],
+        "codeowners": ["@cubee"]
+}
